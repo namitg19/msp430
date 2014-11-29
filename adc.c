@@ -1,4 +1,5 @@
 #include <msp430g2553.h>
+//added line for git practice
 
 void main(void) {
 short int conv = 0;
